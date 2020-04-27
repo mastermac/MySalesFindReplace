@@ -22,8 +22,16 @@ namespace MySalesFindReplace
         {
             while (true)
             {
-                Console.Write("Select \n1 to prepare for LOCAL\n2 to prepare for CHECKIN\nYour Input: ");
-                type = Console.ReadLine();
+                Console.Write("Select \n1 -> Prepare for LOCAL\n2 -> Prepare for CHECKIN\n3 -> Exit\n");
+                while (true)
+                {
+                    Console.Write("Your Input: ");
+                    type = Console.ReadLine();
+                    if (!String.IsNullOrEmpty(type))
+                        break;
+                }
+                if (type == "3")
+                    break;
                 Console.Write("Parent directory (If Empty, Current Dir will be considered): ");
                 string dir = Console.ReadLine();
                 if (String.IsNullOrEmpty(dir))
