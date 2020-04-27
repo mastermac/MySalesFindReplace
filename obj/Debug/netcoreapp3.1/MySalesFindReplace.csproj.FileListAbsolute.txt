@@ -1,0 +1,11 @@
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Debug\netcoreapp3.1\MySalesFindReplace.exe
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Debug\netcoreapp3.1\MySalesFindReplace.deps.json
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Debug\netcoreapp3.1\MySalesFindReplace.runtimeconfig.json
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Debug\netcoreapp3.1\MySalesFindReplace.runtimeconfig.dev.json
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Debug\netcoreapp3.1\MySalesFindReplace.dll
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Debug\netcoreapp3.1\MySalesFindReplace.pdb
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Debug\netcoreapp3.1\MySalesFindReplace.AssemblyInfoInputs.cache
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Debug\netcoreapp3.1\MySalesFindReplace.AssemblyInfo.cs
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Debug\netcoreapp3.1\MySalesFindReplace.dll
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Debug\netcoreapp3.1\MySalesFindReplace.pdb
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Debug\netcoreapp3.1\MySalesFindReplace.csprojAssemblyReference.cache
