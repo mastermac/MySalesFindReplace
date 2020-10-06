@@ -9,13 +9,15 @@ namespace MySalesFindReplace
             "../common-ux/", 
             "../opportunity-ux/", 
             "../attainment-ux/", 
-            "../account-ux/" 
+            "../account-ux/",
+            "../tripreport-ux/"
         };
         static string[] localText = {
             "../../../../mysalesmanager-common-app/dist/mysales/common-ux/",
             "../../../../mysalesmanager-opportunity-app/src/mysales/opportunity-ux/",
             "../../../../mysalesmanager-attainment-app/src/mysales/attainment-ux/",
-            "../../../../mysalesmanager-accounts-app/src/mysales/account-ux/"
+            "../../../../mysalesmanager-accounts-app/src/mysales/account-ux/",
+            "../../../../mysales-tripreport-app/src/mysales/tripreport-ux/"
         };
         static string type="";
         static void Main(string[] args)

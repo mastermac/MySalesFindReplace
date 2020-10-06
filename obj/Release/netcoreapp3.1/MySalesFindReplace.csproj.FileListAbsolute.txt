@@ -4,7 +4,10 @@ C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Release\netcoreapp3.
 C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Release\netcoreapp3.1\MySalesFindReplace.runtimeconfig.dev.json
 C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Release\netcoreapp3.1\MySalesFindReplace.dll
 C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\bin\Release\netcoreapp3.1\MySalesFindReplace.pdb
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Release\netcoreapp3.1\MySalesFindReplace.csprojAssemblyReference.cache
 C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Release\netcoreapp3.1\MySalesFindReplace.AssemblyInfoInputs.cache
 C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Release\netcoreapp3.1\MySalesFindReplace.AssemblyInfo.cs
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Release\netcoreapp3.1\MySalesFindReplace.csproj.CoreCompileInputs.cache
 C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Release\netcoreapp3.1\MySalesFindReplace.dll
 C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Release\netcoreapp3.1\MySalesFindReplace.pdb
+C:\Users\shubham_gupta5\source\repos\MySalesFindReplace\obj\Release\netcoreapp3.1\MySalesFindReplace.genruntimeconfig.cache
